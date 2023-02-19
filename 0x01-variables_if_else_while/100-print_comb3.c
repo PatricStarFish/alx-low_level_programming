@@ -17,10 +17,13 @@ while (c < 58)
 d = 48;
 while (d < 58)
 {
+if (c != d)
+{
 putchar(c);
 putchar(d);
 putchar(44);
 putchar(32);
+}
 d++;
 }
 c++;
