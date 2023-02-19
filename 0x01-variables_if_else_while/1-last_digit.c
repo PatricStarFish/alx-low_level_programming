@@ -19,10 +19,10 @@ b = b * 10;
 m = n - b;
 printf("Last digit of %d is %d ", n, m);
 if (m == 0)
-printf("and is 0 \n");
+printf("and is 0\n");
 if (m < 6)
-printf("and is less than 6 and not 0 \n");
+printf("and is less than 6 and not 0\n");
 if (m > 5)
-printf("and is greater than 5 \n");
+printf("and is greater than 5\n");
 return (0);
 }
