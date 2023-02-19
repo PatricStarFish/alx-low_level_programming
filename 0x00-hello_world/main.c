@@ -6,6 +6,5 @@
 */
 int main(void)
 {
-	return (0);
+  char Mystr[]="C and C++";puts(Mystr);return (0);
 }
-

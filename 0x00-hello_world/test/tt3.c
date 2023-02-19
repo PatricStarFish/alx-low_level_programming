@@ -5,7 +5,7 @@
 *Return: Always 0 (Success)
 */
 int main(void)
+for (int a = 0; a < b; a++)
 {
-	return (0);
+printf("%d\n", a);
 }
-
