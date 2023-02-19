@@ -14,11 +14,13 @@ c = 48;
 /*putchar to print 0 > 9*/
 while (c < 58)
 {
-putchar(c);
 d = 48;
 while (d < 58)
 {
+putchar(c);
 putchar(d);
+putchar(44);
+putchar(32);
 d++;
 }
 c++;
