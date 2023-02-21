@@ -10,6 +10,5 @@
 int main(void)
 {
 mainp();
-putchar('\n');
 return (0);
 }
