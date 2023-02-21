@@ -6,7 +6,7 @@
  * Description:printf funt
  * Return: Always 0 (Success)
  */
-int main(void)
+int mainp(void)
 {
 int c;
 c = 95;
@@ -19,9 +19,13 @@ c = 116;
 putchar(c);
 c = 99;
 putchar(c);
-c = 16;
+c = 104;
 putchar(c);
-c = 99;
+c = 97;
+putchar(c);
+c = 114;
+putchar(c);
+ 
  
  putchar('\n');
 return (0);
