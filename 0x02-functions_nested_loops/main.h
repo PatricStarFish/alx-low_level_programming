@@ -6,7 +6,7 @@
  * Description:printf funt
  * Return: Always 0 (Success)
  */
-int print_alphabet()
+int main()
 {
 int c;
 c = 97;
