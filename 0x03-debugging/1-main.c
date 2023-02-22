@@ -2,7 +2,6 @@
 
 /**
 * main - causes an infinite loop
-* @\\o/\n" - printf para
 * Description:this is the file
 * Return: 0
 */
