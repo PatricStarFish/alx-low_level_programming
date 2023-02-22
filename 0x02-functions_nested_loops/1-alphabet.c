@@ -9,10 +9,9 @@
 {
 print_alphabet();
 return (0);
-}
+}*/
 int print_alphabet(void)
 {
-*/
 int c;
 c = 97;
 while (c < 123)
