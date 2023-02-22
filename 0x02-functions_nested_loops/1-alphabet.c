@@ -1,10 +1,18 @@
 #include "main.h"
+#include "_putchar.c"
 /**
- * print_alphabet - Start of Script
+ * main - Start of Script
  * Description:runs main from main.h
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+int print_alphabet(void)
 {
-main();
+int c;
+c = 97;
+while (c < 123)
+{
+_putchar(c);
+c++;
+}
+return (0);
 }
