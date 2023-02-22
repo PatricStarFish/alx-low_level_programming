@@ -10,7 +10,7 @@ int print_alphabet()
 {
 int c;
 c = 97;
-while (c < 122)
+while (c < 123)
 {
 putchar(c);
 c++;
