@@ -1,0 +1,30 @@
+#include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <ctype.h>
+
+/**
+ * print_sign - Start of Script
+ * @n: comes from main
+ * Description:runs main from main.h
+ * Return: Always 0 (Success)
+ */
+int print_sign(int n)
+{
+if (n == 0)
+{
+_putchar(48);
+return (0);
+}
+if (n > 0)
+{
+_putchar(43);
+return (1);
+}
+else if (n < 0)
+{
+_putchar(45);
+return (-1);
+}
+return(0);
+}
