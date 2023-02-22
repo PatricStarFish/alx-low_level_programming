@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 /**
- * _islower - Start of Script
+ * _isalpha - Start of Script
  * @d: comes from main
  * Description:runs main from main.h
  * Return: Always 0 (Success)
