@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - Entry point
  * Description:printf funt
  * Return: Always 0 (Success)
  */
-int main1()
+int main()
 {
 int c;
 c = 97;

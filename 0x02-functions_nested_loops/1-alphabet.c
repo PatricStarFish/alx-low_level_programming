@@ -1,13 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "main.h"
 /**
- * main - Entry point
- * Description:printf funt
+ * main - Start of Script
+ * Description:runs main from main.h
  * Return: Always 0 (Success)
  */
-int main(void)
+int print_alphabet()
 {
-main1();
+main();
 return (0);
 }
