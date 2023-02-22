@@ -5,7 +5,7 @@
 
 /**
  * _islower - Start of Script
- * @d;comes from main
+ * @d: comes from main
  * Description:runs main from main.h
  * Return: Always 0 (Success)
  */
