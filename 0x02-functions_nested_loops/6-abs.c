@@ -9,7 +9,10 @@
  * Description:runs main from main.h
  * Return: Always 0 (Success)
  */
-int _abs(int d)
+int _abs(int c)
 {
-return (d);
+  int d;
+  d = abs (c);
+  printf("%d", d);
+return (0);
 }
