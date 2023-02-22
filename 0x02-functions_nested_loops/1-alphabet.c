@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- * main - Start of Script
+ * print_alphabet - Start of Script
  * Description:runs main from main.h
  * Return: Always 0 (Success)
  */
-int print_alphabet()
+void print_alphabet(void)
 {
 main();
-return (0);
 }
