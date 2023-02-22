@@ -1,5 +1,4 @@
 #include "main.h"
-/*#include "_putchar.c"/*
 /**
  * main - Start of Script
  * Description:runs main from main.h
