@@ -14,5 +14,6 @@ while (c < 123)
 _putchar(c);
 c++;
 }
+_putchar(\n);
 return (0);
 }
