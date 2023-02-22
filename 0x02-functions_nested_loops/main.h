@@ -4,3 +4,4 @@ int _putchar(char);
 int _islower(char);
 int _isalpha(char);
 int print_sign(int);
+int abs(int);
