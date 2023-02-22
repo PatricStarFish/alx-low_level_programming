@@ -1,7 +1,7 @@
 #include "main.h"
-/*#include "_putchar.c"*/
+#include "_putchar.c"
 /**
- * main - Start of Script
+ * print_alphabet - Start of Script
  * Description:runs main from main.h
  * Return: Always 0 (Success)
  */
@@ -14,6 +14,7 @@ while (c < 123)
 _putchar(c);
 c++;
 }
-_putchar(\n);
+_putchar(8);
+_putchar(110);
 return (0);
 }
