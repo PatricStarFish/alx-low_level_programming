@@ -1,0 +1,18 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * _abs - 
+
+/**
+ * reset_to-98 - Start of Script
+ * @a - comes from main.c
+ * Description:reset main from main.h
+ * Return: Always 0 (Success)
+ */
+
+int reset_to_98(int *a)
+{
+*a = 98;
+return (0);
+}
